@@ -1,4 +1,4 @@
-package mod1
+package mods
 
 func Themin(a, b int) int {
 	if a > b {
